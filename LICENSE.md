@@ -1,4 +1,4 @@
-# 
+# VIP CodeSentinel guía. Descarga e instala con configuraciones personalizables y sincronización en la nube — rápido, seguro y fácil de usar.
 
 
 
